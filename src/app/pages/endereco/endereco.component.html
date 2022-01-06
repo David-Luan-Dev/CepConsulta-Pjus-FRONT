@@ -1,0 +1,27 @@
+<div class="container">
+    <h1>Consulta CEP</h1>
+    <div class="form-group">
+        <input type="text" [(ngModel)]="cep" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+            placeholder="Digite o Cep">
+    </div>
+    <button (click)="getCep()" type="submit" class="btn btn-primary mt-2">Consultar</button>
+
+
+    <div class="container" *ngIf="endereco">
+        <form>
+
+            <div class="card">
+                <div class="card-header">
+                    Dados do CEP: {{endereco.cep}}
+                </div>
+                <div class="card-body">
+                    <blockquote class="blockquote mb-0">
+                        <p>{{endereco.logradouro}}</p>
+                        <footer class="blockquote-footer">Bairro: {{endereco.bairro}}</footer>
+                        <footer class="blockquote-footer">Cidade: {{endereco.localidade}} - {{endereco.uf}}</footer>
+                    </blockquote>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

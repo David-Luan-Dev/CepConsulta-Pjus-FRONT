@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAyxBeH6Z3rbwMW/FSWCP2Q+AFO8VOA58mWezljypEKNcuCxvzhKbG0p6CihdPlaB3yAMt0uTXlTNwDBNM5pvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Desktop\\Projeto-Pjus-main\\CepConsulta-Pjus-FRONT2\\ConsultarCepAPI\\ConsultarCepAPI\\ConsultarCepAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
